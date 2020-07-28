@@ -34,4 +34,7 @@ window 객체와 DOM 객체를 불어오는 과정을 활용해 보고 싶었다
 로직은 간단한데 디자인이 너무 이뻣던것 같다ㅋㅋㅋ.  
 
 
-[image:3301A164-C2D9-44A1-82D2-CAF5BBBD0433-586-0000C69FA61B55FD/스크린샷 2020-07-28 오후 12.52.03.png]
+
+<img  alt="clock" src="https://user-images.githubusercontent.com/67617819/88617814-84539080-d0d2-11ea-9c32-b6b3a3b3910c.png">
+
+
